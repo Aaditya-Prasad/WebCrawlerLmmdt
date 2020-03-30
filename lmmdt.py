@@ -21,7 +21,7 @@ class LMMDT(scrapy.Spider):
         OIB(response);
         return FR.from_response(
             response,
-            formdata = {'login': 's-aaprasad', 'password': 'Maxwell2208!'},
+            formdata = {'login': 's-aaprasad', 'password': 'Imagine trying to cop my password'},
             callback = self.timer
             );
     def login(self, response):
